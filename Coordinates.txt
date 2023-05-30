@@ -1,0 +1,15 @@
+
+Image1:
+
+Next to charger = 543,1195
+Next to camera1 = 981, 606
+Next to camera2 =1074, 605
+Middle of windows logo = 928, 1092
+
+Image1 to Image2: 
+
+Next to charger = 159, 1211
+Next to camera1 = 611, 589
+Next to camera2 =696, 589
+Middle of windows logo = 568, 1065
+
