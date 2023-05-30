@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=l_qjO4cM74o
 https://towardsdatascience.com/understanding-homography-a-k-a-perspective-transformation-cacaed5ca17
 
 ## For coordinates
-I used gimp to get the image coordinates. You can also use automatic feature detection using Harris Corners etc. You need a minimum of 4 points and the points you select should preferably be corners i.e.., where the edges intersect. It's because corners are easy to locate on other images too with higher accuracy.
+I used GIMP to get the image coordinates, you can install it for free. You can also use automatic feature detection using Harris Corners etc. You need a minimum of 4 points and the points you select should preferably be corners i.e., where the edges intersect. It's because corners are easy to locate on other images too with higher accuracy.
 
 
 
